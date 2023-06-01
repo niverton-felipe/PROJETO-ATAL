@@ -8,12 +8,10 @@
 
 ### Como utilizar solução?
 
-**Download do arquivo**: Para clonar ou baixar o repositório, basta acessar sua página inicial e clicar no botão CODE conforme exibido na imagem abaixo
+**Download do arquivo**: Para ter acesso a solução é necessário clicar na página inicial, depois no botão CODE e escolher entre clonar o repositório (copiando um dos três links disponibilidos) ou baixando o ZIP dos arquivos (clicando no botão Download ZIP).
 
 <p float="left">
-
  <img src="https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/CLONAR%20BAIXAR%20REPOSITORIO.png" width="200" />
-
- <img src="https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/CLONAR%20BAIXAR%20REPOSITORIO.png" width="200" /> 
-
 </p>
+
+
