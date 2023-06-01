@@ -17,7 +17,7 @@
 **Utilizando o arquivo main.py**
   Para começar a utilizar a solução, basta rodar o arquivo main.py. O terminal apresentará um grafo criado de maneira dinâmica.
   <p float="left">
- <img src="[https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/CLONAR%20BAIXAR%20REPOSITORIO.png](https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/APRESENTACAO%20GRAFO.png)" width="200" />
+ <img src="https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/APRESENTACAO%20GRAFO.png" width="200" />
 </p>
 
   Em seguida, será apresentado no terminal duas mensagens pedindo para que o usuário defina os pontos de origem e destino que ele seja calcular a melhor rota. É importante salientar que os pontos informados são validados antes do algoritmo continuar o cálculo e retornará as mensagens pedindo os pontos até que o usuário selecione pontos válidos.
