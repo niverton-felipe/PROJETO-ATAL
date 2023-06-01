@@ -25,7 +25,6 @@
   <p float="left">
  <img src="https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/CALCULO%20DA%20ROTA.png" width="200" />
 </p>
-
   Depois da validação dos pontos, o cálculo da rota mais curta é realizado e informado ao usuário. Por fim, um menu de opções é apresentado ao usuário que terá a opção de realizar outro cálculo de rota com o mesmo gráfico, mudar o grafo para cálculo ou ainda sair e interromper o processo.
 
 
