@@ -23,14 +23,10 @@
   Em seguida, será apresentado no terminal duas mensagens pedindo para que o usuário defina os pontos de origem e destino que ele seja calcular a melhor rota. É importante salientar que os pontos informados são validados antes do algoritmo continuar o cálculo e retornará as mensagens pedindo os pontos até que o usuário selecione pontos válidos.
   
   <p float="left">
- <img src="https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/CLONAR%20BAIXAR%20REPOSITORIO.png" width="200" />
+ <img src="https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/CALCULO%20DA%20ROTA.png" width="200" />
 </p>
 
   Depois da validação dos pontos, o cálculo da rota mais curta é realizado e informado ao usuário. Por fim, um menu de opções é apresentado ao usuário que terá a opção de realizar outro cálculo de rota com o mesmo gráfico, mudar o grafo para cálculo ou ainda sair e interromper o processo.
-  
- <p float="left">
- <img src="https://github.com/niverton-felipe/PROJETO-ATAL/blob/master/CLONAR%20BAIXAR%20REPOSITORIO.png" width="200" />
-</p>
-  
+
 
 
